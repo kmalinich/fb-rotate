@@ -2,9 +2,9 @@
 *.mode1v3
 *.mode2v3
 *.pbxuser
-*.perspective 
+*.perspective
 *.perspectivev3
-*.pyc 
+*.pyc
 *~.nib/
 */build/*
 *.app/
@@ -29,5 +29,4 @@ profile
 *.out
 
 # for this git directory: fb-rotate
-fb-rotate
-
+/fb-rotate
